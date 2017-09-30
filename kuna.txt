@@ -1,0 +1,96 @@
+8. La foto de KUNA Luxury sale muy a la derecha: 
+	esto ya es un tema de la imagen. Esta estilado lo mas que  se puede.
+9. Cuando ejecuto una compra y quiero conocer el estado de esta, a pesar de estar en opción compras en Español, me salen textos en inglés:
+	Para traducir esos estados, ir en el backoffice / PEDIDO/ ESTADOS / MODIFICAR ESTADO escogiendo es o  en
+
+10. Cuando no encuentra un producto, me salen textos en inglés:
+	BAckoffice
+		Localizacion
+			Traducciones
+	Escoger "traducciones del front office"
+	Escoger tema "KUNA"
+	ESCOGER ESP
+	Ir a seccion CATEGORY ye scribir traduccion
+	Guardar cambios
+
+También salen textos en inglés, cuando uno verifica su shopping bag
+	BAckoffice
+		Localizacion
+			Traducciones
+	Escoger "traducciones de modulos instalados"
+	Escoger tema "KUNA"
+	ESCOGER ESP
+	Ir a seccion KUNA - ORDER-OPC y escribir traduccion
+	Guardar cambios
+
+11. Cuando uno se suscribe a la página, deja sus correo, le sale Protección de Datos para marcar con un check… no sale la definición de lo que esto es… y o en qué consiste, la ley que la ampara, etc.
+	NECESITO ALGUN TEXTO PARA ISNERTARLO D EMANERA ESTATICA
+
+12. Los productos relacionados, es decir los sugeridos por la página, no son en algunos casos coherentes… por ej. cuando buscas guantes… te sugiere como productos relacionados sacos y estolas
+	Los productos relacionados, se relacionan o por categorias o por tags. En estso casos se etsan relacionando a la categoria MUJERES. Prestashop trabaja por defecto asi. SI se desea otro tipo de relaciones, se debe comprar un modulo que lo haga como el cliente quiere.
+
+13. Cuando se hace click en GRUPO INCA, sale error de privacidad; lo cual no pasa cuando accede a la página normalmente
+	BAckoffice
+		Modulos y Servicios
+			Statics Blocks
+	ESCOGER footer-list-block y editar
+	Cambiar link de GRUPO INCA
+	Guardar cambios
+
+15. Cuando se desea ingresar solo a ver colección Fall Winter por ej. te sale una mezcla de todo… guantes de peccary, mantas, chompas, etc.
+	He visto que ya han ido cmabiandole de categorias, ais que por ese lado lo pueden seguir haciendo.
+
+16. Si veo una imagen por ej. de la estola Paracas  - foto de imagen-, haciendo click me debería de llevar a comprarla.
+	No se cual era el requerimieto inicial. Pueden crear un link en la descripcion del texto que lleve a comprarlo, como ya han hecho en otras colecciones. SI aun asi desean que la imagen lleve a la prenda para comprarla, esto ya es un requerimiento nuevo.
+
+18. Cuando hace click en el ícono de Youtube, la página no te lleva al Youtube oficial de KUNA, sale error.
+	BAckoffice
+		Modulos y Servicios
+			Modulos y Servicios
+	BUSCAR modulo "Bloque social"
+	Configurar
+	cabiar url de youtube
+	Guardar cambios
+
+19. Cuando me inscribo en la página, me sale un recuadro para hacer check
+Reciba ofertas especiales de nuestros socios ¿Esto, a qué corresponde?
+	NO SE A QUE SE REFIERE.Los que hayan dado check, autorizan que peuden enviarles ofertas a travez de amillings, etc.
+
+
+
+21. En la página en inglés, dice SIGNUP todo seguido cuando la palabra es separada
+
+	BAckoffice
+		Localizacion
+			Traducciones
+	Escoger "traducciones de modulos instalados"
+	Escoger tema "KUNA"
+	ESCOGER EN
+	Ir a seccion KUNA - BLOCKNEWSLETTER y escribir traduccion
+	Guardar cambios
+
+22. En el home, en vez de decir únicamente welcome dice Your Welcome
+
+	BAckoffice
+		Localizacion
+			Traducciones
+	Escoger "traducciones de modulos instalados"
+	Escoger tema "KUNA"
+	ESCOGER EN
+	Ir a seccion KUNA - NAV y escribir traduccion
+	Guardar cambios
+
+23. En Inglés la pagina web no te lleva al Grupo Inca   
+Dice Inca group   Debe decir: Inca Group
+ 
+
+	BAckoffice
+		Modulos y Servicios
+			Statics Blocks
+	ESCOGER footer-list-block y editar
+	Cambiar idioma en la pestaña que dice ES por EN, al lado del editor
+	Cambiar link de GRUPO INCA y Texto
+	Guardar cambios
+
+	
+	
